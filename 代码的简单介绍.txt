@@ -1,0 +1,11 @@
+这里有4个.ipynb文件和4个.html文件。.ipynb文件的内容和对应.html的内容一致，把html文件放在这里，可以让你更方便的浏览。
+
+第一个文件，casestudy1.ipynb，是针对一个二手车商数据做预测模型，decision tree, regression, 和 neural network都有构建，最后生成一个ensemble model有最好的表现.
+
+另外三个文件，分别是clustering, association mining, 和 text mining对不同的数据进行处理。
+
+这几个文件大概可以描述我对python的熟悉程度，以及对数据挖掘的基本了解。
+如果有其他方面想要了解，欢迎随时私信我。
+
+半个月后我可以分享计算机视觉（CNN模型）以及NLP（query expansion部分）的demo。目前正在做，需要的话我会尽快整理出来。
+
